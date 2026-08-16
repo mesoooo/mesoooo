@@ -3,7 +3,7 @@
     <img src="https://lanyard.kyrie25.dev/api/1517108785792024591?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000" alt="Discord Status" />
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=csynholic&color=gray&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mesoooo&color=gray&style=plastic" alt="Profile Views" />
 </p>
 
 <h2 align="center">💻 Relic Founder</h2>
