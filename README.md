@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://cursi.ng">
+    <img src="https://lanyard.kyrie25.dev/api/1517108785792024591?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000" alt="Discord Status" />
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=csynholic&color=gray&style=plastic" alt="Profile Views" />
+</p>
 
-<!--
-**mesoooo/mesoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">💻 Relic Founder</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Building cutting-edge tools, Discord bots, and scalable infrastructure for the underground web.</i>
+</p>
